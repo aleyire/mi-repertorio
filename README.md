@@ -1,5 +1,6 @@
 ## Mi repertorio
 En este desafío se realizó una aplicación Node que se conecta con PostgreSQL, en ella es utiliza funciones asíncronas para realizar consultas a la base de datos.
+
 ![](https://media.giphy.com/media/iFn08sdhaurUfw8UJp/giphy.gif)
 
 ### Materia aplicada
