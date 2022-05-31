@@ -3,14 +3,14 @@ En este desafío se realizó una aplicación Node que se conecta con PostgreSQL,
 
 ![](https://media.giphy.com/media/iFn08sdhaurUfw8UJp/giphy.gif)
 
-### Materia aplicada
+### Materia aplicada 🎶
 - Levantando un servidor con conexión a PostgreSQL.
 - Insertando registros.
 - Consultado registros.
 - Actualizando registros.
 - Eliminando registros.
 
-### Pasos para utilizar la aplicación:
+### Pasos para utilizar la aplicación: 🎼
 - Instalar Node.js, PostgreSQL y visual Studio Code.
 - Crear una base de datos en PostgreSQL con los comandos en 'datos.sql'.
 - clonar el repositorio de GitHub.
