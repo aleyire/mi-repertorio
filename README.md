@@ -13,8 +13,8 @@ En este desafío se realizó una aplicación Node que se conecta con PostgreSQL,
 ### Pasos para utilizar la aplicación: 🎼
 - Instalar Node.js, PostgreSQL y visual Studio Code.
 - Crear una base de datos en PostgreSQL con los comandos en 'datos.sql'.
-- clonar el repositorio de GitHub.
-- habilitar el puerto 3000 en el servidor.
+- Clonar el repositorio de GitHub.
+- Habilitar el puerto 3000 en el servidor.
 - Ingresar los datos solicitados en la aplicación.
 
 ### Visualización
