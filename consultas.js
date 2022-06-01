@@ -2,7 +2,7 @@ const { Pool } = require("pg")
 const pool = new Pool({
   user: "postgres",
   host: "localhost",
-  password: "xxxx", // password
+  password: "alejandra", 
   port: 5432,
   database: "repertorio",
 })
@@ -29,7 +29,7 @@ const consultar = async () => {
   }
 }
 const editar = async (datos, id) => {
-  // falta
+  
   const consulta = {
     text: `UPDATE repertorios SET
   cancion = $1,
